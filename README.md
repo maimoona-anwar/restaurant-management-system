@@ -6,3 +6,4 @@ Project documentation includes:
 - Class descriptions
 - Attributes and methods
 - UML diagram
+  
